@@ -1,0 +1,13 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar o arquivo package-lock.json
+package-lock.json
+
+# Ignorar arquivos e pastas temporários ou específicos de IDEs
+.DS_Store
+.vscode/
+*.log
+
+# Ignorar arquivos de configuração do sistema
+.env
